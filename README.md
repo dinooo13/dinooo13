@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m currently working on articles for my blog on fmeyer.dev
+- 👨🏻‍💻 I’m currently working on articles for my blog on [fmeyer.dev](fmeyer.dev)
 - ❤️ PHP - How can you not love it?!
 - 🚀 Learning new things everyday
 - 🤔 Thinking about how I can overengineer my next project
