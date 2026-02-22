@@ -1,7 +1,6 @@
 ### Hi 👋
 
 - 💚 Vue & Nuxt enthusiast
-- 🤖 Most stuff is vibe-coded here
-- 🚀 Always improving the craft
+- 🤖 Most stuff is vibe-coded *uh-hum* agentic engineered here
 
 📫 hello@fmeyer.dev
