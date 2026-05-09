@@ -44,5 +44,5 @@
   <text x="42" y="274" class="mono text r6" font-size="16">&gt; workflow: agentic engineering.</text>
 
   <text x="42" y="320" class="mono muted" font-size="15">────────────────────────────────────────────────────────────</text>
-  <text x="42" y="350" class="mono accent" font-size="18">❯ agent -p "what is he building now?" <tspan class="cursor">▋</tspan></text>
+  <text x="42" y="350" class="mono accent" font-size="18">❯ agent -p "what to build next?" <tspan class="cursor">▋</tspan></text>
 </svg>
