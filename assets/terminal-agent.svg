@@ -40,7 +40,7 @@
   <text x="42" y="154" class="mono ok r2" font-size="16">✔ context loaded: README.md</text>
   <text x="42" y="184" class="mono text r3" font-size="16">&gt; name: Fabian Meyer</text>
   <text x="42" y="214" class="mono text r4" font-size="16">&gt; job: staff agentic engineer</text>
-  <text x="42" y="244" class="mono text r5" font-size="16">&gt; focus: Vue + Nuxt</text>
+  <text x="42" y="244" class="mono text r5" font-size="16">&gt; focus: building cool stuff</text>
   <text x="42" y="274" class="mono text r6" font-size="16">&gt; workflow: agentic engineering.</text>
 
   <text x="42" y="320" class="mono muted" font-size="15">────────────────────────────────────────────────────────────</text>
